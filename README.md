@@ -41,8 +41,7 @@ Mantis/
 
 2. **Clone o repositório**:
    ```bash
-   git clone https://seurepositorio.com/Mantis.git
-   cd Mantis
+   git clone https://github.com/MarcosVitorTn/MantisTestAutomation.git
    ```
 
 3. **Instale as dependências**:
